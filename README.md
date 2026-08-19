@@ -4,8 +4,8 @@
 
 ### Backend-leaning Software Engineer — Python/Django · Node.js · React
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fadl98/)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedfadl3019@gmail.com)
 [![Location](https://img.shields.io/badge/Cairo-Egypt-black?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -14,11 +14,11 @@
 
 ### About Me
 
-I'm a software engineer based in Cairo, Egypt, focused on backend systems and full-stack delivery. freelance backend/full-stack work through **Bookbee.net**.
+I'm a software engineer based in Cairo, Egypt, focused on backend systems and full-stack delivery, including freelance work through **Bookbee.net**.
 
 I came up through a hands-on training track at the **Information Technology Institute (ITI)** and have been building production-leaning projects ever since — from CLIs to full MERN apps.
 
-- 🔭 Currently building: ICAM-related services for ADNOC @ Onspec
+- 🔭 Currently bringing software solutions to the oil & gas industry @ Onspec
 - 💼 Also freelancing: full-stack builds via Bookbee.net
 - 🌱 Background: ITI training program (2024) · MongoDB Python Developer Path · CS50
 - 📫 Open to backend / full-stack / software engineer roles and freelance work
@@ -50,15 +50,15 @@ I came up through a hands-on training track at the **Information Technology Inst
 ### Experience
 
 **Software Engineer — Onspec Engineering & Contracting**
-- Contribute for building ICAM project for ADNOC in UAE.
-- Delivered ETL-integration-solution for EGPC and EDMS system for Gasko & NPC.
+- Contributing to the ICAM (Identity, Credential & Access Management) project for ADNOC in the UAE.
+- Delivered an ETL integration solution for EGPC, and an EDMS (Electronic Document Management System) for Gasko & NPC.
 
-**Software Engineer - Vultara.Inc**
-- Solve many bugs in thier websapp and cyberr security system
-- contribute to ethical discord web scrapping.
+**Software Engineer — Vultara Inc**
+- Resolved numerous bugs across their web application and cybersecurity systems.
+- Contributed to ethical Discord web-scraping tooling.
 
 **Freelance Software Engineer — Bookbee.net**
-Deliver main & vital Backend and full-stack features for client projects: React frontend, Supabase backend.
+- Delivering core, business-critical backend and full-stack features for client projects, using React on the frontend and Supabase on the backend.
 
 ---
 
