@@ -4,8 +4,6 @@
 
 ### Backend-leaning Software Engineer — Python/Django · Node.js · React
 
-Building the ICAM identity platform for ADNOC at **Onspec Engineering & Contracting**, and shipping freelance products on the side.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat&logo=gmail&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Cairo-Egypt-black?style=flat&logo=googlemaps&logoColor=white)](#)
