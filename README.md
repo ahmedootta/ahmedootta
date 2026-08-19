@@ -50,7 +50,7 @@ I came up through a hands-on training track at the **Information Technology Inst
 ### Experience
 
 **Software Engineer — Onspec Engineering & Contracting**
-- Contributing to the ICAM (Identity, Credential & Access Management) project for ADNOC in the UAE.
+- Contributing to the ICAM (Block-Flow-Diagram builder) project for ADNOC in the UAE.
 - Delivered an ETL integration solution for EGPC, and an EDMS (Electronic Document Management System) for Gasko & NPC.
 
 **Software Engineer — Vultara Inc**
