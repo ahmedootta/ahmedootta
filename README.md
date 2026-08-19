@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a software engineer based in Cairo, Egypt, focused on backend systems and full-stack delivery. Day to day I work on **ICAM** (Identity, Credential & Access Management) for ADNOC as part of the team at Onspec Engineering & Contracting, and I take on freelance backend/full-stack work through **Bookbee.net**.
+I'm a software engineer based in Cairo, Egypt, focused on backend systems and full-stack delivery. freelance backend/full-stack work through **Bookbee.net**.
 
 I came up through a hands-on training track at the **Information Technology Institute (ITI)** and have been building production-leaning projects ever since — from CLIs to full MERN apps.
 
@@ -50,18 +50,28 @@ I came up through a hands-on training track at the **Information Technology Inst
 ### Experience
 
 **Software Engineer — Onspec Engineering & Contracting**
-Working on the ICAM project for ADNOC — identity, credential, and access management systems.
+- Contribute for building ICAM project for ADNOC in UAE.
+- Delivered ETL-integration-solution for EGPC and EDMS system for Gasko & NPC.
+
+**Software Engineer - Vultara.Inc**
+- Solve many bugs in thier websapp and cyberr security system
+- contribute to ethical discord web scrapping.
 
 **Freelance Software Engineer — Bookbee.net**
-Backend and full-stack delivery for client projects: Python/Django and Node.js/Express services, React frontends, PostgreSQL/MongoDB/Supabase data layers.
+Deliver main & vital Backend and full-stack features for client projects: React frontend, Supabase backend.
 
 ---
 
-### Certifications
+### Scholarships
+
+- ✅ Information Technology Institute (ITI) — full-time training program, 2024
+
+---
+
+### Courses
 
 - ✅ MongoDB Python Developer Path
 - ✅ CS50 (Harvard)
-- ✅ Information Technology Institute (ITI) — full-time training program, 2024
 
 ---
 
