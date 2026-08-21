@@ -10,7 +10,7 @@
 
 ---
 
-Building software for the oil & gas industry @ Onspec, and taking on freelance backend/full-stack work on the side. Open to backend, full-stack, and software engineer roles.
+Backend systems and full-stack products — currently freelancing alongside a full-time engineering role. Open to backend, full-stack, and software engineer roles.
 
 ## Flagship Projects
 
