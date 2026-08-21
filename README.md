@@ -17,11 +17,14 @@ Building software for the oil & gas industry @ Onspec, and taking on freelance b
 **[Korra Software System — Backend](https://github.com/Ahmed-Fadl-Freelancing/Korra-Software-System-Backend)**
 Django REST API for a sales/tech-office opportunity-tracking system — Supabase-backed auth, PDF data extraction, and a UiPath RPA webhook integration. Freelance client build.
 
-**[Smart Learning Academy](https://github.com/ahmedootta/SLA_Freelance)**
-Full LMS platform: Django REST backend + React frontend, covering course management, enrollments, payments, and certificates, Dockerized end to end. Freelance client build.
+**[Korra Software System — Frontend](https://github.com/Ahmed-Fadl-Freelancing/korra-software-system-frontend)**
+React/TypeScript client for the Korra opportunity-tracking system — role-scoped dashboards for Sales and Tech Office, task inbox, and opportunity lifecycle views.
 
-**[Goodreads-Style MERN App](https://github.com/ahmedootta/goodreads-MERN-App)**
-Full-stack MERN app — admin panel for books/authors/categories, JWT auth, and per-user reading lists with reviews and ratings. Personal project.
+**[Wiki Pageview Checker](https://github.com/Ahmed-Fadl-Freelancing/wiki-pageview-checker)**
+Bulk Wikipedia traffic lookup tool — takes a URL or CSV of Wikipedia links and pulls monthly pageview counts per article via the Wikimedia REST API.
+
+**[PT Finder](https://github.com/waddy-wellbeing/Instrgam_Searcher)**
+CLI tool that discovers Egyptian personal trainers on Instagram using a 3-phase smart search strategy, with bio/follower filtering and CSV/JSON export.
 
 ## Tech Stack
 
