@@ -2,7 +2,7 @@
 
 # Ahmed Fadl
 
-### Backend-leaning Software Engineer — Python/Django · Node.js · React
+### Backend Engineer | Python/Django · Node.js · Java Spring Boot
 
 📍 Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/ahmed-fadl98/) · [Email](mailto:ahmedfadl3019@gmail.com)
 
@@ -10,7 +10,7 @@
 
 ---
 
-Backend systems and full-stack products — currently freelancing alongside a full-time engineering role. Open to backend, full-stack, and software engineer roles.
+I build backend systems and APIs, and I'm currently adding Java Spring Boot to my toolkit with a hands-on project. Freelancing alongside a full-time engineering role. Open to backend engineer roles.
 
 ## Flagship Projects
 
@@ -35,6 +35,8 @@ CLI tool that discovers Egyptian personal trainers on Instagram using a 3-phase 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Currently learning:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ## Background
 
