@@ -37,6 +37,9 @@ Backend engineer building APIs and services with Python and Django. Open to back
 **[Rate Limiter with Redis](https://github.com/ahmedootta/Rate-Limiter-With-Redis)** · [Live demo](https://rate-limiter-with-redis.onrender.com/api/ping/)
 Redis-backed rate limiting for Django: counts requests per client within a time window and returns HTTP 429 once the limit is exceeded. Deployed on Render.
 
+**[ITI Cafeteria Online Ordering System](https://github.com/ahmedabougabal/ITICafeFoodDeliveryApp)**
+Graduation project from the ITI Intensive Code Camp, built by a student team and selected for real-world implementation. Django backend with a React/TypeScript frontend, Google OAuth, PayPal payments, and WebSockets.
+
 **[Wiki Pageview Checker](https://github.com/Ahmed-Fadl-Freelancing/wiki-pageview-checker)**
 Bulk Wikipedia traffic lookup: takes a URL or a CSV of links and pulls monthly pageview counts per article from the Wikimedia REST API.
 
